@@ -8,3 +8,6 @@
 5. `cd` into djangoapp
 6. run `python manage.py runserver`
 7. Head over to `http://localhost:8000/` and play around.
+
+Next Steps:
+Code compilation and execution using gcc docker image instead of local gcc.
